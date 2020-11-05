@@ -8,8 +8,8 @@ def atoi(text):
 def natural_keys(text):
     return [ atoi(c) for c in re.split(r'(\d+)', text)]
 
-fp_in = "caso_4/frame_*.png"
-fp_out = "caso_4.gif"
+fp_in = "caso_6/frame_*.png"
+fp_out = "caso_6.gif"
 
 listaImagenes = sorted(glob.glob(fp_in))
 

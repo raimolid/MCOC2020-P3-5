@@ -2,7 +2,7 @@
 
 # Entrega 5 - Replicar casos 2D para verificar
 
-# Caso 1 XXX Pendiente Explicación final
+# Caso 1 
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -17,20 +17,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_1.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 2 XXX Pendiente Explicación final
+# Caso 2 
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -45,20 +45,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_2.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 3 XXX Pendiente Explicación final
+# Caso 3 
 
 * Condiciones de Borde: 
   * Condición Inicial: 10°  
@@ -73,20 +73,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_3.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 4 XXX Pendiente Imagenes, GIF y Explicacion final
+# Caso 4 
 
 * Condiciones de Borde: 
   * Condición Inicial: 10°  
@@ -101,20 +101,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_4.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 5  XXX Pendiente Explicación final
+# Caso 5 
 
 * Condiciones de Borde: 
   * Condición Inicial: 5°  
@@ -129,20 +129,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_5.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 6  XXX Pendiente Explicación final
+# Caso 6  
 
 * Condiciones de Borde: 
   * Condición Inicial: 30°  
@@ -157,20 +157,20 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_6.gif))
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 7 XXXX PENDIENTE grafico, imagenes y explicacion final
+# Caso 7 
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -185,15 +185,15 @@
 
 * Gráfico Evolución de Temperatura en puntos:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7.png)
 
 * Imagenes en 0 hrs, 2 hrs, 6 hrs, 12 hrs, 24 hrs y GIF:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0000.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0004.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0012.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0048.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7.gif)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7/frame_0000.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7/frame_0004.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7/frame_0012.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7/frame_0024.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7/frame_0048.png)
+![alt text](https://github.com/raimolid/MCOC2020-P3-5/blob/main/caso_7.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?

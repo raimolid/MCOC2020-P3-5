@@ -43,12 +43,12 @@ def imshowbien(u):
     xTicks_N = arange(0, Nx+1, 3)
     yTicks_N = arange(0, Ny+1, 3)
     xTicks =[coords(i,0)[0] for i in xTicks_N]
-    yTicks =[coords(0,i)[0] for i in yTicks_N]
+    yTicks =[coords(0,i)[1] for i in yTicks_N]
     xTicks_Text = ["{0:.2f}".format(tick) for tick in xTicks]
     yTicks_Text = ["{0:.2f}".format(tick) for tick in yTicks]
     xticks(xTicks_N,xTicks_Text, rotation='vertical')
     yticks(yTicks_N,yTicks_Text)
-    margins(0,2)
+    margins(0.2)
     subplots_adjust(bottom=0.15)
     
     

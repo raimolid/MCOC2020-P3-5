@@ -2,7 +2,7 @@
 
 # Entrega 5 - Replicar casos 2D para verificar
 
-# Caso 1
+# Caso 1 XXX Pendiente Explcación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -28,7 +28,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1.gif)
 
-# Caso 2
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 2 XXX Pendiente Explcación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -54,7 +56,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2.gif)
 
-# Caso 3
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 3 XXX Pendiente Explcación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 10°  
@@ -80,7 +84,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3.gif)
 
-# Caso 4 XXX Pendienteeeee
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 4 XXX Pendiente Imagenes, GIF y Explicacion final
 
 * Condiciones de Borde: 
   * Condición Inicial: 10°  
@@ -106,7 +112,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4.gif)
 
-# Caso 5
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 5  XXX Pendiente Explcación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 5°  
@@ -132,7 +140,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5.gif)
 
-# Caso 6
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 6  XXX Pendiente Explcación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 30°  
@@ -158,7 +168,9 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6.gif)
 
-# Caso 7 XXXX PENDIENTEEE
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+# Caso 7 XXXX PENDIENTE grafico, imagenes y explicacion final
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -183,3 +195,5 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0024.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0047.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7.gif)
+
+* Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?

@@ -4,13 +4,7 @@
 
 # Caso 1
 
-* Condiciones de Borde:
-
-** 20° Inicial
-** Borde Superior: 0°
-** Borde Izquierdo: 20°
-** Borde Inferior: 20°
-** Borde Derecho: 0°
+* Condiciones de Borde: * 20° Inicial * Borde Superior: 0° * Borde Izquierdo: 20° * Borde Inferior: 20° * Borde Derecho: 0°
 
 * Gráfico de Temperatura vs Tiempo:
 

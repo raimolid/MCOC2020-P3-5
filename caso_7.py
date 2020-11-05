@@ -104,9 +104,9 @@ for k in range(int32(Days/dt)):
     u_ambiente = 20.+10*sin((2*pi/T)*t)
     
     #CB esenciales, se repiten en cada iteración
-    u_k[0,:] = u_k[-1,:]-0*dx   #Borde izquierdo
-    u_k[:,0] = u_k[:,-1]-0*dy   #Borde inferior gradiente 0
-    u_k[:,-1] = u_ambiente  #Borde superior gradiente 0
+    u_k[0,:] = u_k[1,:]-0*dx   #Borde izquierdo gradiente 0 
+    u_k[:,0] = u_k[:,1]-0*dy   #Borde inferior gradiente 0
+    u_k[:,-1] = u_ambiente  #Borde superior ambiente
     u_k[-1,:] = u_k[-2,:]-0*dx  #Borde derecho gradiente 0
     
     #Escribiendo Puntos Interesantes
@@ -127,11 +127,11 @@ for k in range(int32(Days/dt)):
     u_k = u_km1
     
     #CB denuevo, para asegurar cumpliemiento
-    u_k[0,:] = u_k[1,:]-0*dx   #Borde izquierdo
+    u_k[0,:] = u_k[1,:]-0*dx   #Borde izquierdo gradiente 0
     u_k[:,0] = u_k[:,1]-0*dy   #Borde inferior gradiente 0
-    u_k[:,-1] = u_ambiente  #Borde superior gradiente 0
+    u_k[:,-1] = u_ambiente  # Borde superior ambiente
     u_k[-1,:] = u_k[-2,:]-0*dx  #Borde derecho gradiente 0
-    
+   
     if t > next_t:
         figure(1)
         imshowbien(u_k)
@@ -140,17 +140,19 @@ for k in range(int32(Days/dt)):
         framenum += 1
         next_t += dnext_t
         close(1)
-        
+
 #Ploteo historia de t° en Puntos Interesantes 
 figure(2)
 plot(range(int32(Days/dt)),p_1,label='N/2,N/2')
 plot(range(int32(Days/dt)),p_2,label='N/2,3N/4')
 plot(range(int32(Days/dt)),p_3,label='3N/4,3N/4')
-#plot(range(int32(Days/dt)),u_ambiente,label='Ambiente',ls='--',c='k')
+
+t_a = linspace(0,1470,1470)
+plot(t_a,20 + 10 * sin((2*pi)*t_a),label='Ambiente',ls='--',c='k')
 
 title("Evolución de temperatura en puntos")
 legend()
+
 savefig(f'caso_7.png')
-show()      
-        
-        
+
+show()         

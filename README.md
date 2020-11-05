@@ -5,11 +5,15 @@
 # Caso 1
 
 * Condiciones de Borde: 
-  * 20° Inicial 
+  * Condición Inicial: 20°  
   * Borde Superior: 0° 
   * Borde Izquierdo: 20° 
   * Borde Inferior: 20° 
   * Borde Derecho: 0°
+  * Nx: 30
+  * Ny: 30
+  * a: 1.0
+  * b: 1.0
 
 * Gráfico de Temperatura vs Tiempo:
 

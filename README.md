@@ -2,4 +2,4 @@
 
 # Entrega 5 - Replicar casos 2D para verificar
 
-![alt text](https://github.com/raimolid/MCOC2020-P3/blob/main/x104.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2.gif)

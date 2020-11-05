@@ -2,7 +2,7 @@
 
 # Entrega 5 - Replicar casos 2D para verificar
 
-# Caso 1 XXX Pendiente Explcación final
+# Caso 1 XXX Pendiente Explicación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -30,7 +30,7 @@
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 2 XXX Pendiente Explcación final
+# Caso 2 XXX Pendiente Explicación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 20°  
@@ -58,7 +58,7 @@
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 3 XXX Pendiente Explcación final
+# Caso 3 XXX Pendiente Explicación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 10°  
@@ -114,7 +114,7 @@
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 5  XXX Pendiente Explcación final
+# Caso 5  XXX Pendiente Explicación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 5°  
@@ -142,7 +142,7 @@
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-# Caso 6  XXX Pendiente Explcación final
+# Caso 6  XXX Pendiente Explicación final
 
 * Condiciones de Borde: 
   * Condición Inicial: 30°  

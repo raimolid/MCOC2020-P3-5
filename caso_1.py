@@ -70,7 +70,7 @@ print(f"alpha = {alpha}")
 #Loop en el tiempo
 minuto = 60.
 hora = 3600.
-dia = 24 * 3600
+dia = 24.5 * 3600
 
 dt = 1*minuto
 dnext_t = 0.5*hora

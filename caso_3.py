@@ -150,6 +150,7 @@ plot(range(int32(Days/dt)),p_1,label='N/2,N/2')
 plot(range(int32(Days/dt)),p_2,label='N/2,3N/4')
 plot(range(int32(Days/dt)),p_3,label='3N/4,3N/4')
 
+
 title("Evolución de temperatura en puntos")
 legend()
 savefig(f'caso_3.png')

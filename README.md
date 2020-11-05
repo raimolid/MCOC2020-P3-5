@@ -25,7 +25,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_1.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -53,7 +53,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_2.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -81,7 +81,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_3.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -109,7 +109,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_4.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -137,7 +137,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_5.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -165,7 +165,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_6.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
@@ -193,7 +193,7 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0004.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0012.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0024.png)
-![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0047.png)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7/frame_0048.png)
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P3-5/blob/main/caso_7.gif)
 
 * Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?

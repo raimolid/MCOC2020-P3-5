@@ -21,13 +21,7 @@ h = dx
 
 #Funciones de conveniencia para calcular las coordenadas del punto(1,j)
 
-def coords(i,j):
-    return (dx*1, dy*j)
-
-x,y= coords(4,2)
-
-print("x: ",x)
-print("y: ",y)
+coords = lambda i,j:(dx*i,dy*j)
 
 def imshowbien(u):
     imshow(u.T[Nx::-1,:],cmap=cm.coolwarm, interpolation='bilinear')

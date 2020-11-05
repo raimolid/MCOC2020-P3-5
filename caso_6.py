@@ -43,12 +43,12 @@ def imshowbien(u):
     xTicks_N = arange(0, Nx+1, 3)
     yTicks_N = arange(0, Ny+1, 3)
     xTicks =[coords(i,0)[0] for i in xTicks_N]
-    yTicks =[coords(0,i)[0] for i in yTicks_N]
+    yTicks =[coords(0,i)[1] for i in yTicks_N]
     xTicks_Text = ["{0:.2f}".format(tick) for tick in xTicks]
     yTicks_Text = ["{0:.2f}".format(tick) for tick in yTicks]
     xticks(xTicks_N,xTicks_Text, rotation='vertical')
     yticks(yTicks_N,yTicks_Text)
-    margins(0,2)
+    margins(0.2)
     subplots_adjust(bottom=0.15)
     
     
@@ -76,7 +76,7 @@ print(f"alpha = {alpha}")
 #Loop en el tiempo
 minuto = 60.
 hora = 3600.
-dia = 24 * 3600
+dia = 24.5 * 3600
 
 dt = 1*minuto
 dnext_t = 0.5*hora
@@ -108,7 +108,7 @@ for k in range(int32(Days/dt)):
     
     #CB esenciales, se repiten en cada iteración
     u_k[0,:] = 10.   #Borde izquierdo
-    u_k[:,0] = u_k[:,-1]-0*dy   #Borde inferior gradiente 0
+    u_k[:,0] = u_k[:,1]-0*dy   #Borde inferior gradiente 0
     u_k[:,-1] = u_k[:,-2]-0*dy  #Borde superior gradiente 0
     u_k[-1,:] = u_k[-2,:]-0*dx  #Borde derecho gradiente 0
     
@@ -131,7 +131,7 @@ for k in range(int32(Days/dt)):
     
     #CB denuevo, para asegurar cumpliemiento
     u_k[0,:] = 10.   #Borde izquierdo
-    u_k[:,0] = u_k[:,-1]-0*dy   #Borde inferior gradiente 0
+    u_k[:,0] = u_k[:,1]-0*dy   #Borde inferior gradiente 0
     u_k[:,-1] = u_k[:,-2]-0*dy  #Borde superior gradiente 0
     u_k[-1,:] = u_k[-2,:]-0*dx  #Borde derecho gradiente 0
     
